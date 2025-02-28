@@ -1,6 +1,10 @@
-# CPS [Custom Printed Submarine]  ![CPSlogo](https://yt3.ggpht.com/a/AATXAJxz3N1lP8Nc5Ew2neXEeFRo6Tlfv4eYDojq5A=s100-c-k-c0xffffffff-no-rj-mo)
+# AI-Shark  
 
-Is a project started by Filip Buława, Piotr Domanowski and Marcin Hnat. 
+This project is a fork of CPS.
+We decided that we were going to make an affordable and amazing underwater drone that combines the features of Hydrus and CPS.
+
+AI-Shark was started by First Lego League Team 60958, whose members are Stone & Cole Cameron, Leikh & Ronin Gadhia, Owen Lew, Adam Saxanov, David Tang, Binken Uritani. 
+
 It is about creating a functional product of a innovative submarine, primarily with live streaming from camera in the drone. 
 Project is based on 3D printing process, which allows developing various solutions for the form of a drone.
 
