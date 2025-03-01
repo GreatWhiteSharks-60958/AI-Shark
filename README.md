@@ -11,5 +11,4 @@ It is about creating a functional product of a innovative submarine, primarily w
 This project is based on 3D printing process, which allows you to develop various solutions for different problems. 
 
 To learn more, find us on
-* [Webite]([https://ai-sharkunderwatermapping.godaddysites.com/)
-
+- [Website](https://ai-sharkunderwatermapping.godaddysites.com/)
